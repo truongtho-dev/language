@@ -1,14 +1,16 @@
 {
   "en": {
-    "key1": "Hello",
-    "key2": "Important"
+    "key1": "Go Global.Transcend Business Banking.",
+    "key2": "Award-winning fintech solutions, customisable to your business needs. Grow your business with a global account that lets you pay, collect and convert better than the banks.",
+    "key3": "Talk to our specialists",
+    "key4": "Licensed And Regulated In",
+    "key5": "Financial Services To Fuel Your Growth"
   },
   "vn": {
-    "key1": "xin chào",
-    "key2": "Quan trọng"
-  },
-  "id": {
-    "key1": "halo",
-    "key2": "penting"
+    "key1": "Đi ra quốc tế. Hệ thống ngân hàng siêu việt",
+    "key2": "Các giải pháp tài chính từng đoạt giải thưởng, có thể tùy chỉnh theo nhu cầu kinh doanh của bạn. Phát triển doanh nghiệp của bạn với một tài khoản toàn cầu cho phép bạn thanh toán, thu thập và chuyển đổi tốt hơn các ngân hàng.",
+    "key3": "Nói chuyện với chuyên gia của chúng tôi",
+    "key4": "Được Quy Định Và Cấp Phép",
+    "key5": "Dịch vụ tài chính thúc đẩy sự phát triển của bạn"
   }
 }
