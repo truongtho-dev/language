@@ -1,0 +1,14 @@
+{
+  "en": {
+    "key1": "Hello",
+    "key2": "Important"
+  },
+  "vn": {
+    "key1": "xin chào",
+    "key2": "Quan trọng"
+  },
+  "id": {
+    "key1": "halo",
+    "key2": "penting"
+  }
+}
